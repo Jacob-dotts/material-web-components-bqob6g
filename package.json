@@ -1,0 +1,27 @@
+{
+  "name": "open-wc-lit-html-basics",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "owc-dev-server -o"
+  },
+  "dependencies": {
+    "@evergreen-wc/eve-highlight": "^0.0.9",
+    "@kuscamara/code-sample": "^3.0.2",
+    "@material/mwc-button": "^0.10.0",
+    "@material/mwc-drawer": "^0.10.0",
+    "@material/mwc-icon-button": "^0.10.0",
+    "@material/mwc-tab": "^0.10.0",
+    "@material/mwc-top-app-bar": "^0.10.0",
+    "@vaadin/router": "^1.2.0",
+    "@vaadin/vaadin-tabs": "^2.1.2",
+    "@webcomponents/webcomponentsjs": "^2.2.7",
+    "highlight.js": "^9.16.2",
+    "lit-element": "^2.1.0",
+    "lit-html": "^1.0.0",
+    "pwa-helpers": "^0.9.1"
+  },
+  "devDependencies": {
+    "owc-dev-server": "^0.1.1"
+  }
+}
