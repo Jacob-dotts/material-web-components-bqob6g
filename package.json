@@ -16,7 +16,7 @@
     "@vaadin/router": "^1.2.0",
     "@vaadin/vaadin-tabs": "^2.1.2",
     "@webcomponents/webcomponentsjs": "^2.2.7",
-    "highlight.js": "^9.16.2",
+    "highlight.js": "^10.1.2",
     "lit-element": "^2.1.0",
     "lit-html": "^1.0.0",
     "pwa-helpers": "^0.9.1"
